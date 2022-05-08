@@ -3,6 +3,9 @@
 #### By **{Ahonoryoshi}**
 ## Description
 {This is an applicaton tha lets you view news sources from all over the world. You can click on a news source to view articles from the source, You can also click on an article to raed the whole of it fro the news source website. The app allows for searching of articles by name, country, source and, other parameters }
+
+![Screen Shot 2022-05-08 at 12 47 37 PM](https://user-images.githubusercontent.com/90982137/167291372-72af08f8-217f-49b8-8127-60226cd23ae6.png)
+
 ![Screen Shot 2022-05-08 at 12 44 09 PM](https://user-images.githubusercontent.com/90982137/167290695-3d85ae44-8391-4e9a-a3f2-ed3ee66bec46.png)
 
 ![Screen Shot 2022-05-08 at 12 46 44 PM](https://user-images.githubusercontent.com/90982137/167290905-5b90ea71-b9d7-49c6-b1a3-2f2ccf41ccc2.png)
